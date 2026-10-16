@@ -7,7 +7,7 @@ author:
     affiliation-url: "https://www.ut.edu.co/"
 date: today
 lang: es
-title-block-banner: "#A52A2A"
+title-block-banner: "##0BF461"
 
 format:
   html:
